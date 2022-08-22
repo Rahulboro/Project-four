@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&family=Orbitron:wght@400;500;700;800;900&display=swap');
+
+
+*{
+}
+
+body{
+    margin: 30px;
+    background-color: #fff;
+    font-family: orbiton;
+
+}
+img{
+    margin: 20px;
+}
+
+
+.navbar-container{
+    margin: 2px;
+    padding: 2px;
+    display: flex;
+}
+.list {
+    display: flex;
+    color: #B6B6B6;
+}
+.list-item{
+    align-items:flex-start;
+    margin: 30px;
+    list-style: none;
+    text-decoration: none;
+    font-weight: 400 ;
+    font-size: 20px;
+}
+
+.button-group{
+    margin-top: 26px;
+   margin-left: 200px;
+}
+.nav-button {
+    font-size: 17px;
+    color: rgb(231, 227, 227);
+    background-color: #5855B3;
+    padding: 17px 30px;
+    border-radius: .9em .9em;
+    border-color: #5855B3;
+}
+.banner-container .textsection{
+    width: 40%;
+    float: left;
+}
+
+.banner-container .imagesection{
+    width: 60%;
+    float: right;
+}
+.heading-text{
+    color: #3B3060;
+    font-size: 90px;
+}
+.description{
+    text-align: center;
+    width: 450px;
+    color: #B6B6B6;
+}
+.nav-button{
+    margin-left: 130px;
+
+}
